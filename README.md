@@ -9,4 +9,4 @@
 ### resident evil 
 ### y cualquier juego de zombies y terror
 
-![primer foto meme que encontre pa probar](c:\Users\gabri\Desktop\proyectoswollok\tp0\tp0-cv-GabrielCarpio3\images\meme.jpg)
+![primer foto meme que encontre pa probar](https://github.com/algo1unsam/tp0-cv-GabrielCarpio3/blob/main/images/meme.jpg)
